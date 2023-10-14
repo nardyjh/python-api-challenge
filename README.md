@@ -1,7 +1,3 @@
-# python-api-challenge
-
-Module 6 - Challenge
-
 # WeatherPy and VacationPy
 
 WeatherPy and VacationPy are Python projects that help you explore and plan vacations based on weather conditions in cities around the world. WeatherPy retrieves current weather data for a list of randomly selected cities and analyzes the data to provide insights into temperature, humidity, cloudiness, and wind speed. VacationPy uses this weather data to identify ideal vacation spots with the desired weather conditions and nearby hotels.
