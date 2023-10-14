@@ -11,8 +11,7 @@ WeatherPy and VacationPy are Python projects that help you explore and plan vaca
   - [WeatherPy](#weatherpy)
   - [VacationPy](#vacationpy)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+- [Author & Acknowledgments](#author&acknowledgments)
 
 ## Getting Started
 
@@ -48,8 +47,7 @@ WeatherPy generates visualizations and analyses of weather data for cities aroun
 
 VacationPy provides a map with markers representing ideal vacation spots based on weather conditions. Hovering over a marker shows details about the city, hotel name, and more.
 
-### Contributing
-Contributions are welcome! 
+### Author & Acknowledgments
+Jorge Nardy
 
-### License
-This project is licensed under the University of Toronto. 
+Data provided by University of Toronto.
